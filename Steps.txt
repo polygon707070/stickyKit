@@ -1,0 +1,21 @@
+1. Check if File exists
+2. Open file and Iterate
+3. Start Reading Each Row
+4. Start writing Validation Methods for Every Column 
+5. Consolidate Error message for each Row to form a Single String
+6. Write CSV file with Error <Original_FIle_name_Error.csv>
+7. File Processing is complete - move the file to "processed" directory
+8. Send this Error File to ActiveMQ Queue - ActiveMQ
+9. Start inserting Valid Records in Database - MySQL
+10. Exception handling when insert fails / anything fails while processing 
+11. Write Unit test cases for each Method
+12. Insert JSON Data in MongoDB 
+
+
+MySQL Installation: https://www.youtube.com/watch?v=4Z4r8eGsEu8
+MongoDB INstallation: https://www.youtube.com/watch?v=uBsrlV-aU80
+ActiveMQ : https://activemq.apache.org/components/classic/download/
+Java String Functions: https://www.youtube.com/watch?v=SZqexpaprlI
+
+
+
